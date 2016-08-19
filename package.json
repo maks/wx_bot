@@ -1,0 +1,24 @@
+{
+  "name": "wx_bot",
+  "version": "1.0.0",
+  "description": "A Telegram bot for weather conditions from local forecasts and weather stations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maks/wx_bot.git"
+  },
+  "keywords": [
+    "telegram",
+    "weather",
+    "bot"
+  ],
+  "author": "Maksim Lin <maks@manichord.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maks/wx_bot/issues"
+  },
+  "homepage": "https://github.com/maks/wx_bot#readme"
+}
